@@ -2,6 +2,12 @@
 
 ## Lien vers l'URL: [version live](https://onyx3o6.github.io/js-datavisualisation-challenge/)
 
+## apperçu des graphs :
+
+![graph_1](./src/graph_1.png)
+![graph_2](./src/graph_2.png)
+![graph_3](./src/graph_3.png)
+
 - form: [JS Data Visualization Submission Form](/)
 
 Challenge pour consolider les bases en JS. Simulation de travaille qui nous met dans la peaux d'un devs qui a reçu une commande pour le site de l'UE.
